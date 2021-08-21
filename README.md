@@ -4,7 +4,7 @@ __first react native (mobile app)__
 
 __To Run__
 ```sh
-~$ expo run
+~$ expo start
 ```
 
 and then scan the QR code from your expo app
